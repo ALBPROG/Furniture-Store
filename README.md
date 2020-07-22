@@ -1,6 +1,6 @@
 # Furniture-Store
 
-Link: https://albprog.github.io/Book-Store/
+Link: https://albprog.github.io/Furniture-Store/
 
 Book Store website template. I created this template on May 2020.
 
